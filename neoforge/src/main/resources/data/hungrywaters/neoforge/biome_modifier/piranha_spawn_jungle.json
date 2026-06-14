@@ -6,7 +6,7 @@
   "biomes": "#c:is_jungle",
   "spawners": [{
     "type": "hungrywaters:piranha",
-    "weight": 20,
+    "weight": 50,
     "minCount": 20,
     "maxCount": 50
   }]
